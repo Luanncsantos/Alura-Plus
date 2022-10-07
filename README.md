@@ -1,2 +1,2 @@
 # Alura-Plus 👨🏻‍💻
-Homepage da Alura-Plus, utilizando flex-box e variáveis no CSS.
+Homepage da Alura-Plus, mostrando seu produto.
